@@ -9,3 +9,4 @@ AtleticoMG
 Botafogo
 Santos
 Gremio
+Coritiba
