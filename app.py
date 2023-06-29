@@ -1,8 +1,5 @@
 import time
 
-resting = False
-
-
 def rest(t):
     while t:
         mins, secs = divmod(t, 60)
